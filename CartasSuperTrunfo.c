@@ -95,6 +95,7 @@ int main() {
     printf("Pontos turisticos: %d \n", pontosturisticos2);
     printf("A Densidade populacional é: %f hab/km² \n", densidadepopulacional2);
     printf("O PIB per capita é: %f  bilhão de reais \n", pibpercapita2);
+    
 
 
     return 0;
